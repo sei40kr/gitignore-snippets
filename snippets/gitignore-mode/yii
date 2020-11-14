@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: Yii
+# contributor: Toptal & contributors
+# key: yii
+# --
+
+assets/*
+!assets/.gitignore
+protected/runtime/*
+!protected/runtime/.gitignore
+protected/data/*.db
+themes/classic/views/

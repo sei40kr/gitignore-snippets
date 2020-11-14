@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: Docpress
+# contributor: Toptal & contributors
+# key: docpress
+# --
+
+# docpress documentation generator: https://docpress.github.io/index.html
+
+_docpress/

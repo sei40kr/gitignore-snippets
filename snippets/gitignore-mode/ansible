@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Ansible
+# contributor: Toptal & contributors
+# key: ansible
+# --
+
+*.retry

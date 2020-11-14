@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: Vertx
+# contributor: Toptal & contributors
+# key: vertx
+# --
+
+# Vertx cache directory
+.vertx

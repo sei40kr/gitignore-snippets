@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+
+basedir="$(cd "$(dirname "$0")/.." && pwd)"
+
+find "${basedir}/gitignore/templates" \
+  -type f \
+  -name '*.gitignore' |
+  while read -r file; do
+    name="${file##*/}"
+    name="${name%.gitignore}"
+    key="${name,,}"
+
+    {
+      echo '# -*- mode: snippet -*-'
+      echo "# name: ${name}"
+      echo '# contributor: Toptal & contributors'
+      echo "# key: ${key}"
+      echo '# --'
+      echo ''
+
+      cat "$file"
+    } >"${basedir}/snippets/gitignore-mode/${key}"
+  done

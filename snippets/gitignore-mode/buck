@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: Buck
+# contributor: Toptal & contributors
+# key: buck
+# --
+
+buck-out/
+.buckconfig.local
+.buckd/
+.buckversion
+.fakebuckversion

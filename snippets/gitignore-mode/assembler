@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: Assembler
+# contributor: Toptal & contributors
+# key: assembler
+# --
+
+*.exe
+*.o
+*.obj
+*.bc

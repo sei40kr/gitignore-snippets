@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: Gcov
+# contributor: Toptal & contributors
+# key: gcov
+# --
+
+# gcc coverage testing tool files
+
+*.gcno
+*.gcda
+*.gcov

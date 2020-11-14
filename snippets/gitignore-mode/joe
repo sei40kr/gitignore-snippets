@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: Joe
+# contributor: Toptal & contributors
+# key: joe
+# --
+
+# File backups
+*~
+# Gets created when joe crashes
+DEADJOE

@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: DBeaver
+# contributor: Toptal & contributors
+# key: dbeaver
+# --
+
+# ide config file
+.dbeaver-data-sources*.xml

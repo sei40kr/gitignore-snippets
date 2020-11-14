@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: CUDA
+# contributor: Toptal & contributors
+# key: cuda
+# --
+
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin

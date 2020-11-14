@@ -1,0 +1,21 @@
+# -*- mode: snippet -*-
+# name: PVS
+# contributor: Toptal & contributors
+# key: pvs
+# --
+
+# Ignore binary files
+pvsbin/
+bin/
+lib/
+*.bin
+.pvscontext
+# Ignore orphaned and old proofs
+orphaned-proofs.prf
+*.prf~
+# Ignore compiled Lisp files
+*fasl
+# Ignore PVS dump files
+*.dmp
+# Ignore PVS log files
+*.log

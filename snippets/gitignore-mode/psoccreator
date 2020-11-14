@@ -1,0 +1,24 @@
+# -*- mode: snippet -*-
+# name: PSoCCreator
+# contributor: Toptal & contributors
+# key: psoccreator
+# --
+
+# Project Settings
+*.cywrk.*
+*.cyprj.*
+
+# Generated Assets and Resources
+Debug/
+Release/
+Export/
+*/codegentemp
+*/Generated_Source
+*_datasheet.pdf
+*_timing.html
+*.cycdx
+*.cyfit
+*.rpt
+*.svd
+*.log
+*.zip

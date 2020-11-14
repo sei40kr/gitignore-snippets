@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Less
+# contributor: Toptal & contributors
+# key: less
+# --
+
+*.less

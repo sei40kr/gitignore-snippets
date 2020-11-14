@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: GIS
+# contributor: Toptal & contributors
+# key: gis
+# --
+
+*.gpx
+*.kml

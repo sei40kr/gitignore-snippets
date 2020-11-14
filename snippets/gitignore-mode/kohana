@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: Kohana
+# contributor: Toptal & contributors
+# key: kohana
+# --
+
+application/cache/*
+application/logs/*

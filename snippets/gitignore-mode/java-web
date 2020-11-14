@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: Java-Web
+# contributor: Toptal & contributors
+# key: java-web
+# --
+
+## ignoring target file
+target/

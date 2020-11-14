@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name: LabVIEWNXG
+# contributor: Toptal & contributors
+# key: labviewnxg
+# --
+
+# caches
+.cache/
+*.lvcompile
+*.lvindexcache
+
+# Default build output directory for packages, executables, etc.
+Builds/

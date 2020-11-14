@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: DocFx
+# contributor: Toptal & contributors
+# key: docfx
+# --
+
+.cache
+/**/_site/

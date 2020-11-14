@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: Cake
+# contributor: Toptal & contributors
+# key: cake
+# --
+
+tools/*
+!tools/packages.config

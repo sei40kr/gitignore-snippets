@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: Synology
+# contributor: Toptal & contributors
+# key: synology
+# --
+
+# Thumbnails
+@eaDir
+# Recycle bin
+\#recycle

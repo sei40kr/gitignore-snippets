@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: Idris
+# contributor: Toptal & contributors
+# key: idris
+# --
+
+*.ibc
+*.o

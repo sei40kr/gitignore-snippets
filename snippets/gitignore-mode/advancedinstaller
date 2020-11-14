@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: AdvancedInstaller
+# contributor: Toptal & contributors
+# key: advancedinstaller
+# --
+
+# Advanced Installer caches and default build output
+*-cache/
+*-SetupFiles/
+Prerequisites/

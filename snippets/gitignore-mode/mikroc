@@ -1,0 +1,31 @@
+# -*- mode: snippet -*-
+# name: MikroC
+# contributor: Toptal & contributors
+# key: mikroc
+# --
+
+# Backup
+*.pdsbak
+
+# Debug
+Debug
+
+# Generated files
+*.workspace
+*.log
+*.bmk
+*.brk
+*.cfg
+*.dbg
+*.dct
+*.dlt
+*.hex
+*.lst
+*.dic
+*_callertable.txt
+*.user.dic
+*.asm
+*.c.ini
+*.h.ini
+*.cp
+*.mcl

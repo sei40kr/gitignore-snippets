@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: Fancy
+# contributor: Toptal & contributors
+# key: fancy
+# --
+
+*.rbc
+*.fyc

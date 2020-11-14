@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: jspm
+# contributor: Toptal & contributors
+# key: jspm
+# --
+
+jspm_packages

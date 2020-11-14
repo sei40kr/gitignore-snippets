@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: CodeKit
+# contributor: Toptal & contributors
+# key: codekit
+# --
+
+# General CodeKit files to ignore
+config.codekit
+config.codekit3
+/min

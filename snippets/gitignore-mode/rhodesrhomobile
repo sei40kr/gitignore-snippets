@@ -1,0 +1,15 @@
+# -*- mode: snippet -*-
+# name: RhodesRhomobile
+# contributor: Toptal & contributors
+# key: rhodesrhomobile
+# --
+
+rholog-*
+sim-*
+bin/libs
+bin/RhoBundle
+bin/tmp
+bin/target
+bin/*.ap_
+*.o
+*.jar

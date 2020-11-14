@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: LSspice
+# contributor: Toptal & contributors
+# key: lsspice
+# --
+
+### LTspice ###
+*.raw

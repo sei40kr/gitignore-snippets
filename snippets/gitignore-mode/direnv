@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: direnv
+# contributor: Toptal & contributors
+# key: direnv
+# --
+
+.direnv
+.envrc

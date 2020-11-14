@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: Particle
+# contributor: Toptal & contributors
+# key: particle
+# --
+
+# Compiled output #
+
+###################
+
+*.bin

@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: zig
+# contributor: Toptal & contributors
+# key: zig
+# --
+
+# Zig programming language
+
+zig-cache/
+build/
+build-*/
+docgen_tmp/

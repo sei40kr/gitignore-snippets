@@ -1,0 +1,14 @@
+# -*- mode: snippet -*-
+# name: Sdcc
+# contributor: Toptal & contributors
+# key: sdcc
+# --
+
+# SDCC stuff
+*.lnk
+*.lst
+*.map
+*.mem
+*.rel
+*.rst
+*.sym

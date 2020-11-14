@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: LibreOffice
+# contributor: Toptal & contributors
+# key: libreoffice
+# --
+
+# LibreOffice locks
+.~lock.*#

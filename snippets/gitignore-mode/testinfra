@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: Testinfra
+# contributor: Toptal & contributors
+# key: testinfra
+# --
+
+__pycache__/
+.pytest_cache/

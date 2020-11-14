@@ -1,0 +1,16 @@
+# -*- mode: snippet -*-
+# name: Defold
+# contributor: Toptal & contributors
+# key: defold
+# --
+
+/.internal
+/build
+.externalToolBuilders
+.DS_Store
+Thumbs.db
+.lock-wscript
+*.pyc
+.project
+.cproject
+builtins

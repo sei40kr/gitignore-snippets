@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Espresso
+# contributor: Toptal & contributors
+# key: espresso
+# --
+
+*.esproj

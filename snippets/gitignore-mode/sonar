@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: Sonar
+# contributor: Toptal & contributors
+# key: sonar
+# --
+
+#Sonar generated dir
+/.sonar/

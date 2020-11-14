@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: PineGrow
+# contributor: Toptal & contributors
+# key: pinegrow
+# --
+
+#Pinegrow backup files
+_pgbackup/*
+
+#Pinegrow setting file
+pinegrow.json

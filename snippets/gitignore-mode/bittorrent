@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: BitTorrent
+# contributor: Toptal & contributors
+# key: bittorrent
+# --
+
+*.torrent

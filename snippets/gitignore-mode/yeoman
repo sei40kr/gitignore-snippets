@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: Yeoman
+# contributor: Toptal & contributors
+# key: yeoman
+# --
+
+node_modules/
+bower_components/
+*.log
+
+build/
+dist/

@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: Hexo
+# contributor: Toptal & contributors
+# key: hexo
+# --
+
+db.json
+public/
+.deploy_git/

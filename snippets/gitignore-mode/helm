@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: Helm
+# contributor: Toptal & contributors
+# key: helm
+# --
+
+# Chart dependencies
+**/charts/*.tgz

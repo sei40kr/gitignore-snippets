@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: Diff
+# contributor: Toptal & contributors
+# key: diff
+# --
+
+*.patch
+*.diff

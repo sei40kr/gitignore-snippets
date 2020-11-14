@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: Concrete5
+# contributor: Toptal & contributors
+# key: concrete5
+# --
+
+config/site.php
+files/cache/*
+files/tmp/*
+.htaccess

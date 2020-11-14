@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: AppEngine
+# contributor: Toptal & contributors
+# key: appengine
+# --
+
+# Google App Engine generated folder
+appengine-generated/

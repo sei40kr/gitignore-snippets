@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: Typings
+# contributor: Toptal & contributors
+# key: typings
+# --
+
+## Ignore downloaded typings
+typings

@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: GPG
+# contributor: Toptal & contributors
+# key: gpg
+# --
+
+secring.*
+

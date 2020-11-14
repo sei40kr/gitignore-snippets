@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: TarmaInstallMate
+# contributor: Toptal & contributors
+# key: tarmainstallmate
+# --
+
+# Workspace files
+*.iw7
+*.iw9
+
+# Build log files
+*.log

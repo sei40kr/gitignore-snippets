@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: Ada
+# contributor: Toptal & contributors
+# key: ada
+# --
+
+# Object file
+*.o
+
+# Ada Library Information
+*.ali

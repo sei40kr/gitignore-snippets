@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: Patch
+# contributor: Toptal & contributors
+# key: patch
+# --
+
+*.orig
+*.rej

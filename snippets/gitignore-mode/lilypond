@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: Lilypond
+# contributor: Toptal & contributors
+# key: lilypond
+# --
+
+*.pdf
+*.ps
+*.midi
+*.mid
+*.log
+*~

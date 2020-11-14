@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: Bazaar
+# contributor: Toptal & contributors
+# key: bazaar
+# --
+
+.bzr/
+.bzrignore

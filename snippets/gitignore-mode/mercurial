@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: Mercurial
+# contributor: Toptal & contributors
+# key: mercurial
+# --
+
+.hg/
+.hgignore
+.hgsigs
+.hgsub
+.hgsubstate
+.hgtags

@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: CVS
+# contributor: Toptal & contributors
+# key: cvs
+# --
+
+/CVS/*
+**/CVS/*
+.cvsignore
+*/.cvsignore

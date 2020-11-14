@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: Font
+# contributor: Toptal & contributors
+# key: font
+# --
+
+*.fnt
+*.fon
+*.otf
+*.ttf

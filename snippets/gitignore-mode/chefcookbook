@@ -1,0 +1,18 @@
+# -*- mode: snippet -*-
+# name: ChefCookbook
+# contributor: Toptal & contributors
+# key: chefcookbook
+# --
+
+.vagrant
+/cookbooks
+
+# Bundler
+bin/*
+.bundle/*
+
+.kitchen/
+.kitchen.local.yml
+.kitchen.*.local.yml
+kitchen.local.yml
+kitchen.*.local.yml

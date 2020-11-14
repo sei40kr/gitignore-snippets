@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: VVVV
+# contributor: Toptal & contributors
+# key: vvvv
+# --
+
+
+# .v4p backup files
+*~.xml
+
+# Dynamic plugins .dll
+bin/

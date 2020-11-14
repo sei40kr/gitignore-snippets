@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: ForceDotCom
+# contributor: Toptal & contributors
+# key: forcedotcom
+# --
+
+.project
+.settings
+salesforce.schema
+Referenced Packages

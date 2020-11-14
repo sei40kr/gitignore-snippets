@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: Serverless
+# contributor: Toptal & contributors
+# key: serverless
+# --
+
+# Ignore build directory
+.serverless

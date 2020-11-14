@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: Flask
+# contributor: Toptal & contributors
+# key: flask
+# --
+
+instance/*
+!instance/.gitignore
+.webassets-cache

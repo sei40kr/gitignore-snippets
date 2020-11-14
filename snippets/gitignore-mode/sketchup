@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: SketchUp
+# contributor: Toptal & contributors
+# key: sketchup
+# --
+
+*.skb

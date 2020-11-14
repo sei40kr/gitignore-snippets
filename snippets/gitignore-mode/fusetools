@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: FuseTools
+# contributor: Toptal & contributors
+# key: fusetools
+# --
+
+# Built and preview application files
+build
+
+# Scripts conversion file
+.uno

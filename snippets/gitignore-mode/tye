@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: Tye
+# contributor: Toptal & contributors
+# key: tye
+# --
+
+# Tye | https://github.com/dotnet/tye/
+.tye/*

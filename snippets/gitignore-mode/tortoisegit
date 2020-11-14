@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: TortoiseGit
+# contributor: Toptal & contributors
+# key: tortoisegit
+# --
+
+# Project-level settings
+/.tgitconfig

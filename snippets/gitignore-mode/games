@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: Games
+# contributor: Toptal & contributors
+# key: games
+# --
+
+*.gam
+*.nes
+*.rom
+*.sav

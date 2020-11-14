@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: Dropbox
+# contributor: Toptal & contributors
+# key: dropbox
+# --
+
+# Dropbox settings and caches
+.dropbox
+.dropbox.attr
+.dropbox.cache

@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: Agda
+# contributor: Toptal & contributors
+# key: agda
+# --
+
+*.agdai
+MAlonzo/**

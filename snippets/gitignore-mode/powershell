@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: PowerShell
+# contributor: Toptal & contributors
+# key: powershell
+# --
+
+# Exclude packaged modules
+*.zip
+
+# Exclude .NET assemblies from source
+*.dll

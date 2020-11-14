@@ -1,0 +1,17 @@
+# -*- mode: snippet -*-
+# name: JMeter
+# contributor: Toptal & contributors
+# key: jmeter
+# --
+
+# JMeter common ignore files
+# http://jmeter.apache.org/
+
+# Ignore Summary/Aggregrate reports
+*.jtl
+
+# Ignore log files
+*.log
+
+# Ignore customized user.properties
+user.properties

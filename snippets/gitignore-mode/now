@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: now
+# contributor: Toptal & contributors
+# key: now
+# --
+
+.now
+.vercel

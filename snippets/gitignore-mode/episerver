@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: EPiServer
+# contributor: Toptal & contributors
+# key: episerver
+# --
+
+######################
+## EPiServer Files
+######################
+*License.config

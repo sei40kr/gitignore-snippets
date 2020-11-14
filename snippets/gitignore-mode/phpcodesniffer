@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: PHPCodeSniffer
+# contributor: Toptal & contributors
+# key: phpcodesniffer
+# --
+
+# CodeSniffer
+
+/vendor/*
+/wpcs/*

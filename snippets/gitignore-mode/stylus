@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Stylus
+# contributor: Toptal & contributors
+# key: stylus
+# --
+
+*.css

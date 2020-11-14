@@ -1,0 +1,14 @@
+# -*- mode: snippet -*-
+# name: Packer
+# contributor: Toptal & contributors
+# key: packer
+# --
+
+# Cache objects
+packer_cache/
+
+# Crash log
+crash.log
+
+# For built boxes
+*.box

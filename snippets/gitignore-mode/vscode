@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: vscode
+# contributor: Toptal & contributors
+# key: vscode
+# --
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace

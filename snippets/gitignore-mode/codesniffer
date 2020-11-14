@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: CodeSniffer
+# contributor: Toptal & contributors
+# key: codesniffer
+# --
+
+# gitignore for the PHP Codesniffer framework
+# website: https://github.com/squizlabs/PHP_CodeSniffer
+#
+# Recommended template: PHP.gitignore
+
+/wpcs/*

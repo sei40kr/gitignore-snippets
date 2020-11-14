@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: NotepadPP
+# contributor: Toptal & contributors
+# key: notepadpp
+# --
+
+# Notepad++ backups #
+*.bak

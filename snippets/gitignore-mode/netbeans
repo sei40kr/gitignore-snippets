@@ -1,0 +1,14 @@
+# -*- mode: snippet -*-
+# name: NetBeans
+# contributor: Toptal & contributors
+# key: netbeans
+# --
+
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/

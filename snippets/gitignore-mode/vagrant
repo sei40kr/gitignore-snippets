@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: Vagrant
+# contributor: Toptal & contributors
+# key: vagrant
+# --
+
+# General
+.vagrant/
+
+# Log files (if you are creating logs in debug mode, uncomment this)
+# *.log

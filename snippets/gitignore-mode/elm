@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: Elm
+# contributor: Toptal & contributors
+# key: elm
+# --
+
+# elm-package generated files
+elm-stuff
+# elm-repl generated files
+repl-temp-*

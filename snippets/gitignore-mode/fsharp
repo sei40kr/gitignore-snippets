@@ -1,0 +1,17 @@
+# -*- mode: snippet -*-
+# name: fsharp
+# contributor: Toptal & contributors
+# key: fsharp
+# --
+
+lib/debug
+lib/release
+Debug
+*.suo
+*.user
+obj
+bin
+/build/
+*.exe
+!.paket/paket.bootstrapper.exe
+.ionide/

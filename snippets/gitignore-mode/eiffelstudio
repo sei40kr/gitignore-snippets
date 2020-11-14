@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: EiffelStudio
+# contributor: Toptal & contributors
+# key: eiffelstudio
+# --
+
+# The compilation directory
+EIFGENs
