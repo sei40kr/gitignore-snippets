@@ -4,6 +4,8 @@
 # key: freepascal
 # --
 
+### FreePascal ###
+
 *.lps
 *.compiled
 *.[oa]

@@ -4,5 +4,7 @@
 # key: sonar
 # --
 
+### Sonar ###
+
 #Sonar generated dir
 /.sonar/

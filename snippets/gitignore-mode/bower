@@ -4,6 +4,8 @@
 # key: bower
 # --
 
+### Bower ###
+
 bower_components
 .bower-cache
 .bower-registry

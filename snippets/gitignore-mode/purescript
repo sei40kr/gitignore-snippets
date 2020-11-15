@@ -4,6 +4,8 @@
 # key: purescript
 # --
 
+### PureScript ###
+
 # Dependencies
 .psci_modules
 .spago

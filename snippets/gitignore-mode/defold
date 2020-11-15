@@ -4,6 +4,8 @@
 # key: defold
 # --
 
+### Defold ###
+
 /.internal
 /build
 .externalToolBuilders

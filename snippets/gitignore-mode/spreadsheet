@@ -4,6 +4,8 @@
 # key: spreadsheet
 # --
 
+### Spreadsheet ###
+
 *.xlr
 *.xls
 *.xlsx

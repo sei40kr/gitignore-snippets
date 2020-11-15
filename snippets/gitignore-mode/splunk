@@ -4,6 +4,8 @@
 # key: splunk
 # --
 
+### Splunk ###
+
 # gitignore template for Splunk apps
 # documentation: http://docs.splunk.com/Documentation/Splunk/6.2.3/admin/Defaultmetaconf
 

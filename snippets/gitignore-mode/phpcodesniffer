@@ -4,6 +4,8 @@
 # key: phpcodesniffer
 # --
 
+### PHPCodeSniffer ###
+
 # CodeSniffer
 
 /vendor/*

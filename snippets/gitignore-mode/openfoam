@@ -4,6 +4,8 @@
 # key: openfoam
 # --
 
+### OpenFOAM ###
+
 # Timestep directories
 0.*
 [1-9]*

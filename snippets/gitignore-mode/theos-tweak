@@ -4,6 +4,8 @@
 # key: theos-tweak
 # --
 
+### THEOS-Tweak ###
+
 ._*
 *.deb
 .debmake

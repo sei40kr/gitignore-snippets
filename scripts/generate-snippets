@@ -11,13 +11,16 @@ find "${basedir}/gitignore/templates" \
     key="${name,,}"
 
     {
-      echo '# -*- mode: snippet -*-'
-      echo "# name: ${name}"
-      echo '# contributor: Toptal & contributors'
-      echo "# key: ${key}"
-      echo '# --'
-      echo ''
 
-      cat "$file"
+      cat - "$file" <<EOM
+# -*- mode: snippet -*-
+# name: ${name}
+# contributor: Toptal & contributors
+# key: ${key}
+# --
+
+### ${name} ###
+
+EOM
     } >"${basedir}/snippets/gitignore-mode/${key}"
   done

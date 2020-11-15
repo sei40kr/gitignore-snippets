@@ -4,6 +4,8 @@
 # key: cvs
 # --
 
+### CVS ###
+
 /CVS/*
 **/CVS/*
 .cvsignore

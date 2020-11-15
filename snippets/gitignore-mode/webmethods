@@ -4,6 +4,8 @@
 # key: webmethods
 # --
 
+### WebMethods ###
+
 **/IntegrationServer/datastore/
 **/IntegrationServer/db/
 **/IntegrationServer/DocumentStore/

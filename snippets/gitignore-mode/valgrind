@@ -4,6 +4,8 @@
 # key: valgrind
 # --
 
+### Valgrind ###
+
 # Callgrind output files
 callgrind.out
 callgrind.out.*

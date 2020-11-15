@@ -4,6 +4,8 @@
 # key: games
 # --
 
+### Games ###
+
 *.gam
 *.nes
 *.rom

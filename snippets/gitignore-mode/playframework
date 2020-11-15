@@ -4,6 +4,8 @@
 # key: playframework
 # --
 
+### PlayFramework ###
+
 # Ignore Play! working directory #
 bin/
 /db

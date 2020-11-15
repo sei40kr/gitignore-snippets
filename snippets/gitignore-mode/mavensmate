@@ -4,6 +4,8 @@
 # key: mavensmate
 # --
 
+### MavensMate ###
+
 #Sublime Text exclusions
 *.sublime-workspace
 *.sublime-project

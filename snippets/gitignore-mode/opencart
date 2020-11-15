@@ -4,6 +4,8 @@
 # key: opencart
 # --
 
+### OpenCart ###
+
 .htaccess
 /config.php
 admin/config.php

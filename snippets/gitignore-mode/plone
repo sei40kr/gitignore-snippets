@@ -4,6 +4,8 @@
 # key: plone
 # --
 
+### Plone ###
+
 *.pyc
 *.pyo
 *.tmp*

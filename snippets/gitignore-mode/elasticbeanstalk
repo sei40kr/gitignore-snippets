@@ -4,4 +4,6 @@
 # key: elasticbeanstalk
 # --
 
+### ElasticBeanstalk ###
+
 .elasticbeanstalk/

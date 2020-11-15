@@ -4,6 +4,8 @@
 # key: joomla
 # --
 
+### Joomla ###
+
 /.htaccess
 /administrator/cache/*
 /administrator/components/com_actionlogs/*

@@ -4,6 +4,8 @@
 # key: conan
 # --
 
+### Conan ###
+
 # Conan build information
 conan.lock
 conanbuildinfo.*

@@ -4,6 +4,8 @@
 # key: apachecordova
 # --
 
+### ApacheCordova ###
+
 # Apache Cordova generated files and directories
 bin/*
 !/plugins

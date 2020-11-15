@@ -4,6 +4,8 @@
 # key: nim
 # --
 
+### Nim ###
+
 nimcache/
 nimblecache/
 htmldocs/

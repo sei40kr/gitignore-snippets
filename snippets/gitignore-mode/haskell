@@ -4,6 +4,8 @@
 # key: haskell
 # --
 
+### Haskell ###
+
 dist
 dist-*
 cabal-dev

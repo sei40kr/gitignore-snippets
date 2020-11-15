@@ -4,6 +4,8 @@
 # key: blackbox
 # --
 
+### Blackbox ###
+
 # https://github.com/StackExchange/blackbox
 /keyrings/live/pubring.gpg~
 /keyrings/live/pubring.kbx~

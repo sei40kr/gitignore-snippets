@@ -4,6 +4,8 @@
 # key: zsh
 # --
 
+### Zsh ###
+
 # Zsh compiled script + zrecompile backup
 *.zwc
 *.zwc.old

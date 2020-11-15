@@ -4,6 +4,8 @@
 # key: codeblocks
 # --
 
+### CodeBlocks ###
+
 # specific to CodeBlocks IDE
 *.layout
 *.depend

@@ -4,6 +4,8 @@
 # key: ph7cms
 # --
 
+### pH7CMS ###
+
 _test/*
 public/_repository/upgrade/*
 public/_install/_license-key.txt

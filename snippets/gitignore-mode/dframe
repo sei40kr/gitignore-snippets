@@ -4,6 +4,8 @@
 # key: dframe
 # --
 
+### Dframe ###
+
 # Ignore files that are auto-generated
 app/View/templates_c/*
 app/View/cache/*

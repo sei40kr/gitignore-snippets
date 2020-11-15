@@ -4,6 +4,8 @@
 # key: mercury
 # --
 
+### Mercury ###
+
 Mercury/
 Mercury.modules
 *.mh

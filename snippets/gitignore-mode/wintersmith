@@ -4,6 +4,8 @@
 # key: wintersmith
 # --
 
+### Wintersmith ###
+
 contents/
 node_modules/
 plugins/

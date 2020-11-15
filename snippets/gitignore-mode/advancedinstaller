@@ -4,6 +4,8 @@
 # key: advancedinstaller
 # --
 
+### AdvancedInstaller ###
+
 # Advanced Installer caches and default build output
 *-cache/
 *-SetupFiles/

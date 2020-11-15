@@ -4,5 +4,7 @@
 # key: tortoisegit
 # --
 
+### TortoiseGit ###
+
 # Project-level settings
 /.tgitconfig

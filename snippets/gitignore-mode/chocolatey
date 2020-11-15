@@ -4,5 +4,7 @@
 # key: chocolatey
 # --
 
+### Chocolatey ###
+
 # Exclude packaged modules
 *.nupkg

@@ -4,6 +4,8 @@
 # key: automationstudio
 # --
 
+### AutomationStudio ###
+
 ## Automation Studio : ignore temporary files and build results (.gitignore parallel to *.apj)
 # Ignore AR versions as those are not considered part of the project
 /AS/System/

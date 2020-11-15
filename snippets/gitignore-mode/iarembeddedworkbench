@@ -4,6 +4,8 @@
 # key: iarembeddedworkbench
 # --
 
+### IAREmbeddedWorkBench ###
+
 # IAR C-STAT and C-RUN
 # Comment this out if you use C-Stat or C-Run to compile/analyze your project
 *.ewt

@@ -4,6 +4,8 @@
 # key: octobercms
 # --
 
+### OctoberCms ###
+
 /bootstrap/compiled.php
 /vendor
 composer.phar

@@ -4,6 +4,8 @@
 # key: mercurial
 # --
 
+### Mercurial ###
+
 .hg/
 .hgignore
 .hgsigs

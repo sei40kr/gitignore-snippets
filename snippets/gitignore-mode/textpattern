@@ -4,6 +4,8 @@
 # key: textpattern
 # --
 
+### Textpattern ###
+
 .htaccess
 css.php
 rpc/

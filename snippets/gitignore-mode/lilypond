@@ -4,6 +4,8 @@
 # key: lilypond
 # --
 
+### Lilypond ###
+
 *.pdf
 *.ps
 *.midi

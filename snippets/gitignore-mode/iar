@@ -4,6 +4,8 @@
 # key: iar
 # --
 
+### IAR ###
+
 # Compiled binaries
 *.o
 *.bin

@@ -4,6 +4,8 @@
 # key: basercms
 # --
 
+### baserCMS ###
+
 ## Configuration and Temporary files
 app/Config/database.php
 app/Config/install.php

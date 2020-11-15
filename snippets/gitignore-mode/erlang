@@ -4,6 +4,8 @@
 # key: erlang
 # --
 
+### Erlang ###
+
 .eunit
 *.o
 *.beam

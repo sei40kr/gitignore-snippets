@@ -4,6 +4,8 @@
 # key: typo3-composer
 # --
 
+### TYPO3-composer ###
+
 /vendor
 /web/index.php
 /web/fileadmin/

@@ -4,6 +4,8 @@
 # key: qtcreator
 # --
 
+### QtCreator ###
+
 # gitignore for Qt Creator like IDE for pure C/C++ project without Qt
 #
 # Reference: http://doc.qt.io/qtcreator/creator-project-generic.html

@@ -4,6 +4,8 @@
 # key: microsoftoffice
 # --
 
+### MicrosoftOffice ###
+
 *.tmp
 
 # Word temporary

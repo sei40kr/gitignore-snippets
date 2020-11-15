@@ -4,6 +4,8 @@
 # key: jboss6
 # --
 
+### JBoss6 ###
+
 # gitignore for JBoss v6 projects
 #
 # Note: to ensure empty directories remain part of the repository, like

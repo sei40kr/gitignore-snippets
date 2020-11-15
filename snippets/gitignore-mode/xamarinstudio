@@ -4,6 +4,8 @@
 # key: xamarinstudio
 # --
 
+### XamarinStudio ###
+
 bin/
 obj/
 *.userprefs

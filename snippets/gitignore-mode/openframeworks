@@ -4,6 +4,8 @@
 # key: openframeworks
 # --
 
+### OpenFrameworks ###
+
 # ignore generated binaries
 # but not the data folder
 

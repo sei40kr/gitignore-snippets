@@ -4,6 +4,8 @@
 # key: magic-xpa
 # --
 
+### Magic-xpa ###
+
 # refer to http://www.magicsoftware.com/magic-xpa-application-platform
 # ProgramHeaders.xml serves as a cache file for program headers which is rebuilt if non existent
 ProgramHeaders.xml

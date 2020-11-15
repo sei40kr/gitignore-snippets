@@ -4,6 +4,8 @@
 # key: yarn
 # --
 
+### yarn ###
+
 # https://yarnpkg.com/advanced/qa#which-files-should-be-gitignored
 
 .yarn/*

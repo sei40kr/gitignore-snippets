@@ -4,6 +4,8 @@
 # key: ensime
 # --
 
+### Ensime ###
+
 # Ensime specific
 .ensime
 .ensime_cache/

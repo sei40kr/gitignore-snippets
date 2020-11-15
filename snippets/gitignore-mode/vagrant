@@ -4,6 +4,8 @@
 # key: vagrant
 # --
 
+### Vagrant ###
+
 # General
 .vagrant/
 

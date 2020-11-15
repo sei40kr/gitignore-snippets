@@ -4,6 +4,8 @@
 # key: konyvisualizer
 # --
 
+### KonyVisualizer ###
+
 # Below list few files not added to gitignore list to support Headless/CI build
 
 # Auto-generated javascript. It's important to note that jssrc at the project root

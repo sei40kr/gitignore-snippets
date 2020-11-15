@@ -4,6 +4,8 @@
 # key: pimcore5
 # --
 
+### Pimcore5 ###
+
 /var/*
 
 # keep directories

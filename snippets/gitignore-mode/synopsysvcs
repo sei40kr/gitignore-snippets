@@ -4,6 +4,8 @@
 # key: synopsysvcs
 # --
 
+### SynopsysVCS ###
+
 # Waveform formats
 *.vcd
 *.vpd

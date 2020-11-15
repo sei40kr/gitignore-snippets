@@ -4,5 +4,7 @@
 # key: kohana
 # --
 
+### Kohana ###
+
 application/cache/*
 application/logs/*

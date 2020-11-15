@@ -4,6 +4,8 @@
 # key: codeigniter
 # --
 
+### CodeIgniter ###
+
 */config/development
 */logs/log-*.php
 !*/logs/index.html

@@ -4,6 +4,8 @@
 # key: yii
 # --
 
+### Yii ###
+
 assets/*
 !assets/.gitignore
 protected/runtime/*

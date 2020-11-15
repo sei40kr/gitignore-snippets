@@ -4,6 +4,8 @@
 # key: r
 # --
 
+### R ###
+
 # History files
 .Rhistory
 .Rapp.history

@@ -4,5 +4,7 @@
 # key: standardml
 # --
 
+### StandardML ###
+
 ## Ignore all SML/NJ Compiler Manager build directories
 .cm/

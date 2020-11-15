@@ -4,6 +4,8 @@
 # key: meson
 # --
 
+### Meson ###
+
 # subproject directories
 /subprojects/*
 !/subprojects/*.wrap

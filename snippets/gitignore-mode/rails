@@ -4,6 +4,8 @@
 # key: rails
 # --
 
+### Rails ###
+
 *.rbc
 capybara-*.html
 .rspec

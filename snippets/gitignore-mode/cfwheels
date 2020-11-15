@@ -4,6 +4,8 @@
 # key: cfwheels
 # --
 
+### CFWheels ###
+
 # unpacked plugin folders
 plugins/**/*
 

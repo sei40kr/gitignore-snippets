@@ -4,6 +4,8 @@
 # key: puppet
 # --
 
+### Puppet ###
+
 # gitignore template for Puppet modules
 # website: https://forge.puppet.com/
 

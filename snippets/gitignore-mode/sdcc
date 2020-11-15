@@ -4,6 +4,8 @@
 # key: sdcc
 # --
 
+### Sdcc ###
+
 # SDCC stuff
 *.lnk
 *.lst

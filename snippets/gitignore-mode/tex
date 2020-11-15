@@ -4,6 +4,8 @@
 # key: tex
 # --
 
+### TeX ###
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof

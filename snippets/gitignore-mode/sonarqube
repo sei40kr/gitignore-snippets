@@ -4,6 +4,8 @@
 # key: sonarqube
 # --
 
+### SonarQube ###
+
 # SonarQube ignore files.
 #
 # https://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner

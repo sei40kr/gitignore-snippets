@@ -4,6 +4,8 @@
 # key: lua
 # --
 
+### Lua ###
+
 # Compiled Lua sources
 luac.out
 

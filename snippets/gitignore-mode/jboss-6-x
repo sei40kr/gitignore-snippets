@@ -4,6 +4,8 @@
 # key: jboss-6-x
 # --
 
+### JBoss-6-x ###
+
 /server/all/data
 /server/all/log
 /server/all/tmp

@@ -4,6 +4,8 @@
 # key: jboss-4-2-3-ga
 # --
 
+### JBoss-4-2-3-GA ###
+
 /server/all/data
 /server/all/log
 /server/all/tmp

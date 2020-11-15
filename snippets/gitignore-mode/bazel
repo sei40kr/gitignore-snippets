@@ -4,6 +4,8 @@
 # key: bazel
 # --
 
+### Bazel ###
+
 # gitignore template for Bazel build system
 # website: https://bazel.build/
 

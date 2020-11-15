@@ -4,6 +4,8 @@
 # key: jdeveloper
 # --
 
+### JDeveloper ###
+
 # default application storage directory used by the IDE Performance Cache feature
 .data/
 

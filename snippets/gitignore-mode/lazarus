@@ -4,6 +4,8 @@
 # key: lazarus
 # --
 
+### Lazarus ###
+
 # Lazarus compiler-generated binaries (safe to delete)
 *.exe
 *.dll

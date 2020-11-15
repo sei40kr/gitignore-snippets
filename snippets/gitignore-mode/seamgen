@@ -4,6 +4,8 @@
 # key: seamgen
 # --
 
+### SeamGen ###
+
 /bootstrap/data
 /bootstrap/tmp
 /classes/

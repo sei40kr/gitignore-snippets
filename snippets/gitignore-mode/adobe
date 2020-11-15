@@ -4,6 +4,8 @@
 # key: adobe
 # --
 
+### Adobe ###
+
 # Adobe Source Files
 *.psd
 *.ai

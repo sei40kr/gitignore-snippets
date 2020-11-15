@@ -4,6 +4,8 @@
 # key: composer
 # --
 
+### Composer ###
+
 composer.phar
 /vendor/
 

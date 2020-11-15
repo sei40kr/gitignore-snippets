@@ -4,6 +4,8 @@
 # key: sass
 # --
 
+### Sass ###
+
 .sass-cache/
 *.css.map
 *.sass.map

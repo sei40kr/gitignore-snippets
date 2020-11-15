@@ -4,5 +4,7 @@
 # key: diff
 # --
 
+### Diff ###
+
 *.patch
 *.diff

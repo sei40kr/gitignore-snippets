@@ -4,6 +4,8 @@
 # key: terraform
 # --
 
+### Terraform ###
+
 # Local .terraform directories
 **/.terraform/*
 

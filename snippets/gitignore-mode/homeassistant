@@ -4,6 +4,8 @@
 # key: homeassistant
 # --
 
+### HomeAssistant ###
+
 # Files with personal details
 *.crt
 *.csr

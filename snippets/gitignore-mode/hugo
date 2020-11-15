@@ -4,6 +4,8 @@
 # key: hugo
 # --
 
+### Hugo ###
+
 # Generated files by hugo
 /public/
 /resources/_gen/

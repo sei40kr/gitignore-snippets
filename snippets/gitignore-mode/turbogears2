@@ -4,6 +4,8 @@
 # key: turbogears2
 # --
 
+### TurboGears2 ###
+
 *.py[co]
 
 # Default development database

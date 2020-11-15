@@ -4,6 +4,8 @@
 # key: codesniffer
 # --
 
+### CodeSniffer ###
+
 # gitignore for the PHP Codesniffer framework
 # website: https://github.com/squizlabs/PHP_CodeSniffer
 #

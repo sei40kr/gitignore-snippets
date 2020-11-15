@@ -4,6 +4,8 @@
 # key: kdiff3
 # --
 
+### KDiff3 ###
+
 *.BACKUP.*
 *_BACKUP_*
 *.BASE.*

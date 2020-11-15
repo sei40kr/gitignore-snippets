@@ -4,6 +4,8 @@
 # key: mplabx
 # --
 
+### MPLabX ###
+
 #Ignore List for Microchips MPLabX IDE
 #Form of netbeans with vendor specific changes
 #Taken from zeha on GIST https://gist.github.com/zeha/5999375

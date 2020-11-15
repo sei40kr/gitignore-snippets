@@ -4,6 +4,8 @@
 # key: django
 # --
 
+### Django ###
+
 *.log
 *.pot
 *.pyc

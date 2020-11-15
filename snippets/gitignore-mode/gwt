@@ -4,6 +4,8 @@
 # key: gwt
 # --
 
+### GWT ###
+
 *.class
 
 # Package Files #

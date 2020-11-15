@@ -4,6 +4,8 @@
 # key: kate
 # --
 
+### Kate ###
+
 # Swap Files #
 .*.kate-swp
 .swp.*

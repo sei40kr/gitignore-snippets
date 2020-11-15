@@ -4,6 +4,8 @@
 # key: macos
 # --
 
+### macOS ###
+
 # General
 .DS_Store
 .AppleDouble

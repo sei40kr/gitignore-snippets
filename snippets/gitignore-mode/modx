@@ -4,6 +4,8 @@
 # key: modx
 # --
 
+### MODX ###
+
 /core/cache/*
 !/core/cache/.gitkeep
 

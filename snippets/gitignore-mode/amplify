@@ -4,6 +4,8 @@
 # key: amplify
 # --
 
+### Amplify ###
+
 # AWS Amplify
 amplify/\#current-cloud-backend
 amplify/.config/local-*

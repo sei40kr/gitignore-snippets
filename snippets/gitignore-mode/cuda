@@ -4,6 +4,8 @@
 # key: cuda
 # --
 
+### CUDA ###
+
 *.i
 *.ii
 *.gpu

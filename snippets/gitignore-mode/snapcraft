@@ -4,6 +4,8 @@
 # key: snapcraft
 # --
 
+### Snapcraft ###
+
 /parts/
 /stage/
 /prime/

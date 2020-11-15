@@ -4,6 +4,8 @@
 # key: grails
 # --
 
+### Grails ###
+
 # .gitignore for Grails 1.2 and 1.3
 # Although this should work for most versions of grails, it is
 # suggested that you use the "grails integrate-with --git" command

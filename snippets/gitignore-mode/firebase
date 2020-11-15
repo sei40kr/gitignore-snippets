@@ -4,6 +4,8 @@
 # key: firebase
 # --
 
+### Firebase ###
+
 .idea
 **/node_modules/*
 **/.firebaserc

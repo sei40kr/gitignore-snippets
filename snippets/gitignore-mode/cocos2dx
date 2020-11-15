@@ -4,6 +4,8 @@
 # key: cocos2dx
 # --
 
+### Cocos2dx ###
+
 # Ignore thumbnails created by windows
 Thumbs.db
 

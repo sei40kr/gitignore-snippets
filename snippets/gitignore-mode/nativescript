@@ -4,6 +4,8 @@
 # key: nativescript
 # --
 
+### NativeScript ###
+
 /platforms
 /hooks
 /node_modules

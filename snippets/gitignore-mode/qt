@@ -4,6 +4,8 @@
 # key: qt
 # --
 
+### Qt ###
+
 # C++ objects and libs
 *.slo
 *.lo

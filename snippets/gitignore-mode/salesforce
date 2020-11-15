@@ -4,6 +4,8 @@
 # key: salesforce
 # --
 
+### Salesforce ###
+
 # GitIgnore for Salesforce Projects
 # Project Settings and MetaData
 .project

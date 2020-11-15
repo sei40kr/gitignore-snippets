@@ -4,6 +4,8 @@
 # key: ruby
 # --
 
+### Ruby ###
+
 *.gem
 *.rbc
 /.config
