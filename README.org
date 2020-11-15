@@ -1,0 +1,33 @@
+#+TITLE: gitignore-snippets
+
+** Description
+gitignore.io templates for [[https://github.com/joaotavora/yasnippet][yasnippet]].
+
+** Install
+*** Manual Install
+#+BEGIN_SRC emacs-lisp
+(add-to-list 'load-path "/path/to/gitignore-snippets")
+
+(require 'yasnippet)
+(require 'gitignore-snippets)
+
+;; Make sure to call `gitignore-snippets-init' after yasnippet loaded.
+(gitignore-snippets-init)
+#+END_SRC
+
+*** Doom Emacs
+Add in your =$DOOMDIR/packages.el=:
+
+#+BEGIN_SRC emacs-lisp
+(package! gitignore-snippets)
+#+END_SRC
+
+and then, add your =$DOOMDIR/config.el=:
+
+#+BEGIN_SRC emacs-lisp
+(after! gitignore-snippets
+  (gitignore-snippets-init))
+#+END_SRC
+
+** License
+MIT
