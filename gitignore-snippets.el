@@ -1,4 +1,4 @@
-;;; gitignore-snippets.el --- gitignore.io templates for Yasnippet -*- lexical-binding: t -*-
+;;; gitignore-snippets.el --- Gitignore.io templates for Yasnippet -*- lexical-binding: t -*-
 
 ;; Author: Seong Yong-ju <sei40kr@gmail.com>
 ;; Version: 1.0.0
