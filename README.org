@@ -1,5 +1,7 @@
 #+TITLE: gitignore-snippets
 
+[[https://melpa.org/#/gitignore-snippets][file:https://melpa.org/packages/gitignore-snippets-badge.svg]]
+
 ** Description
 gitignore.io templates for [[https://github.com/joaotavora/yasnippet][yasnippet]].
 
